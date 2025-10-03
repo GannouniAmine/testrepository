@@ -1,4 +1,4 @@
 # GG
-print('hello  amine ')
+print('hello  aminos')
 print('maine')
-print("hello yassine")
+print("hello youness")
